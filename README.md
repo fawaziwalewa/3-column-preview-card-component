@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - [Live Site URL](https://3-column-preview-card-component-sable-seven.vercel.app/)
-- [Solution on Frontend Mentor](https://your-solution-url.com)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-component---tailwindcss-PBVqjfA8iG)
 
 ---
 
