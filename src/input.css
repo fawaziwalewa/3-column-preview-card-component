@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary-orange: hsl(31, 77%, 52%);
+    --color-primary-dark-cyan: hsl(184, 100%, 22%);
+    --color-primary-very-dark-cyan: hsl(179, 100%, 13%);
+    --color-neutral-transparent-white: hsla(0, 0%, 100%, 0.75);
+    --color-neutral-very-light-gray: hsl(0, 0%, 95%);
+    --color-white: #F2F2F2;
+    --font-big-shoulder: "Big Shoulders", sans-serif;
+    --font-lexend: 'Lexend Deca', sans-serif;
+    --text-base: 15px;
+}
+
+@custom-variant hover (&:hover);
