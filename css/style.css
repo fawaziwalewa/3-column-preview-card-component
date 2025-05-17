@@ -301,6 +301,11 @@
       --tw-ring-color: var(--color-white);
     }
   }
+  .md\:mt-20 {
+    @media (width >= 48rem) {
+      margin-top: calc(var(--spacing) * 20);
+    }
+  }
   .md\:flex {
     @media (width >= 48rem) {
       display: flex;
