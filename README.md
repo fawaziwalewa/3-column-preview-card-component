@@ -97,4 +97,4 @@ Next, I want to focus on:
 
 - Website – [iwaola.me](https://iwaola.me)
 - Frontend Mentor – [@fawaziwalewa](https://www.frontendmentor.io/profile/fawaziwalewa)
-- Twitter – [@IwalewaFawaz](https://twitter.com/IwalewaFawaz)
+- Twitter – [@iwalewa_fawaz](https://x.com/iwalewa_fawaz)
